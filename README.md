@@ -6,6 +6,7 @@ A rich, interactive Tableau dashboard designed to uncover workforce trends and a
 >This dashboard offers actionable insights into workforce dynamics — from attrition trends to demographic breakdowns and satisfaction levels — enabling HR teams to make informed, strategic decisions.
 
 🔍 Key Features
+
 📉 Attrition Analysis
 >🎯 Attrition rates broken down by department, gender, and education field
 >📅 Time-based tracking to detect trends and spikes
