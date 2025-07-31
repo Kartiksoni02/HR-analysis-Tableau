@@ -34,7 +34,7 @@ This dashboard offers actionable insights into workforce dynamics — from attri
 >CSV/Excel-based employee dataset
 
 🤝 Contributions
-Ideas and improvements are always welcome! Submit a pull request or open an issue to start a discussion.
+>Ideas and improvements are always welcome! Submit a pull request or open an issue to start a discussion.
 
 📬 Contact
-Let’s connect! Reach out via LinkedIn or email to collaborate or provide feedback.
+>Let’s connect! Reach out via LinkedIn or email to collaborate or provide feedback.
