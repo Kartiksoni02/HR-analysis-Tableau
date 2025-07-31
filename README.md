@@ -1,4 +1,4 @@
-👥 HR Attrition & Workforce Insights Dashboard | Tableau
+# 👥 HR Attrition & Workforce Insights Dashboard | Tableau
 
 A rich, interactive Tableau dashboard designed to uncover workforce trends and analyze employee attrition patterns.
 
